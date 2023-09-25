@@ -1,0 +1,27 @@
+body{
+    font-family:Arial,
+        Helvetica,
+        sans-serif ;
+}
+header img{
+    width: 40px;
+}
+#saving-percent{
+    width: 50px;
+    margin-right: 10px;
+}
+#saving-btn{
+    background-color: rgb(0, 170, 255);
+    padding-left: 25px;
+    padding-right: 25px;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    color: white;
+    transition: 0.5s;
+}
+
+#saving-btn:hover{
+    background-color: rgb(4, 64, 113);
+}
